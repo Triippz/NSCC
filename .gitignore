@@ -288,5 +288,5 @@ __pycache__/
 *.xsd.cs
 
 
-CMakeLists.txzt
+CMakeLists.txt
 cmake-build-debug

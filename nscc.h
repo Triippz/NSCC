@@ -2,7 +2,7 @@
 *
 *		AUTHOR:		Mark Tripoli
 *		DATE:		28 - JAN - 2018
-*		LICENSE:	MIT License
+*		LICENSE:	GNU GPL v3 License
 *		
 *		Purpose:	This library is geared towards TCP/IP operations within
 *					NonStop Guardian enviornments. Some of the code may need to be
